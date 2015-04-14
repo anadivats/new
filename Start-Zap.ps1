@@ -10,7 +10,7 @@
 #>
 param(
     #Zap.jar folder location 
-    $path = 'C:\Program Files (x86)\OWASP\Zed Attack Proxy',
+    $path = 'C:\Users\in8MriPa\Desktop\lite',
     #ZAP Proxy URI
     $proxy='http://localhost:8080',
     $sleep=1,
